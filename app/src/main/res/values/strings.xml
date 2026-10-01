@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DDwifi4</string>
+
+    <string name="back_button_description">Back</string>
+    <string name="search_button_description">Search</string>
+    <string name="refresh_button_description">Refresh</string>
+    <string name="home_button_description">ホームボタン</string>
+</resources>
